@@ -1,2 +1,3 @@
 # repositorio-dio-javascript
-Aqui vai ficar os códigos que faço durante as aulas de javascript do bootcamp santander DIO
+Nessa aula foi criado um contador utilizando as tecnologias : HTML, CSS e Javascript\
+Decidi tb dar alguns toques em css para estilizar ao meu gosto.
